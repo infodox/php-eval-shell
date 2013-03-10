@@ -17,8 +17,8 @@ methods to use. It then emulates a "terminal" on the remote host, giving you com
 
 The reason for writing this software was as a possible extension for "webhandler".
 If you want a *real* PHP backdooring framework, check out webhandler or Weevely.
-github.com/epinna/Weevely
-github.com/lnxg33k/webhandler
+- http://github.com/epinna/Weevely
+- http://github.com/lnxg33k/webhandler
 
 Maybe I will develop this some more, maybe not. It was as a test.
 ~infodox
